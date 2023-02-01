@@ -1,0 +1,42 @@
+:root {
+    --bgColor: rgb(40, 40, 40);
+    --color: #fff;
+}
+.herz { 
+    color:#e25555; 
+}
+.footer {
+    text-align: center;
+    font-size: large;
+}
+body {
+    background-color: var(--bgColor);
+    color: var(--color);
+}
+.fl {
+    color: #3794FF;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }

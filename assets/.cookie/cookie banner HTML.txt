@@ -1,0 +1,15 @@
+<div class="sqs-cookie-banner-v2 POPUP DARK BOTTOM_LEFT BUTTON OPT_IN_AND_OUT" id="yui_3_17_2_1_1675260584756_918">
+  <div class="sqs-cookie-banner-v2-text">
+    <p class="preFade fadeIn" style="transition-timing-function: ease; transition-duration: 0.65s; transition-delay: 0.577778s;"></p>
+    <p class="preFade fadeIn" style="white-space: pre-wrap; transition-timing-function: ease; transition-duration: 0.65s; transition-delay: 0.585185s;">Cookies make life better, right? They also make websites better and improve your user experience. Please read our <a href="/privacy-policy" tabindex="0">privacy policy</a> for details. </p>
+    <p class="preFade fadeIn" style="transition-timing-function: ease; transition-duration: 0.65s; transition-delay: 0.592593s;"></p>
+  </div>
+  <div class="sqs-cookie-banner-v2-cta-container" id="yui_3_17_2_1_1675260584756_917">
+    <div class="sqs-cookie-banner-v2-acceptWrapper" id="yui_3_17_2_1_1675260584756_916">
+      <button class="sqs-cookie-banner-v2-accept sqs-cookie-banner-v2-cta" tabindex="0" id="yui_3_17_2_1_1675260584756_915">Accept</button>
+    </div>
+    <div class="sqs-cookie-banner-v2-denyWrapper">
+      <button class="sqs-cookie-banner-v2-deny sqs-cookie-banner-v2-cta" tabindex="0">Decline</button>
+    </div>
+  </div>
+</div>
