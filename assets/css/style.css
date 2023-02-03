@@ -1,6 +1,7 @@
 :root {
-    --bgColor: rgb(40, 40, 40);
-    --color: #fff;
+    --bgColor: #1E2020;
+    --color: #ffffff;
+    --color-link: #58a6ff;
 }
 .herz { 
     color:#e25555; 
@@ -8,35 +9,25 @@
 .footer {
     text-align: center;
     font-size: large;
+    position: fixed;
+    left: 0;
+    bottom: 2%;
+    height: 90px;
+    width: 100%;
+    overflow: hidden;
 }
 body {
     background-color: var(--bgColor);
     color: var(--color);
 }
-.fl {
-    color: #3794FF;
+.link {
+    color: var(--color-link);
 }
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-  }
-  
-  li {
-    float: left;
-  }
-  
-  li a {
+img {
+    border-radius: 50%;
     display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  /* Change the link color to #111 (black) on hover */
-  li a:hover {
-    background-color: #111;
-  }
+    width: 128px;
+    margin-left: auto;
+    margin-right: auto;
+    bottom: 99%;
+}
