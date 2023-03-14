@@ -1,13 +1,11 @@
 <a name="readme-top"></a>
 
-<!-- Markdown -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
+<!-- Shields -->
+![Sprachen][sprachen]
+![Code][code]
+![Probleme][probleme]
+![Lizenz][lizenz]
+![powerby][powerby]
 
 
 <!-- Logo -->
@@ -34,197 +32,97 @@
 </div>
 
 
+<!-- Über das Projekt -->
+## 📌 Über das Projekt
+Jeder kennt diese webseiten wie linktree, carrd und co. aber was haben sie alle gemeinsam richtig um alle funktionen nutzen zu können muss man ein Abo abschließen. Und daher das wir nicht alle aus Geld gemacht sind habe ich mich dran gesetzt und diese Website erstellt, ich werde noch hinzufügen das man alles anpassen kann was aber noch etwas dauern kann.
 
-<!-- Inhaltsverzeichnis -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+<!-- Produkt Screenshot hier einfügen -->
+
+<p align="right"><a href="#readme-top">zurück nach oben</a></p>
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+## 🛠️ Gebaut mit
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<a href="https://de.wikipedia.org/wiki/HTML5"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+<a href="https://de.wikipedia.org/wiki/CSS3"><img alt="Cascading Style Sheets" src="https://img.shields.io/badge/css3-%23007ACC.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
 
+<a href="https://github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/github-Pages?color=222222&style=for-the-badge&logo=github-pages&logoColor=white"/></a>
 
-
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">zurück nach oben</a></p>
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- Erste Schritte -->
+## 🦶 Erste Schritte
+Wenn du schon einen Server hast und eine domain wo du die Seite hosten kannst Downloade den letzten build und Sehe dir die Anleitung dort an wie du die seite auf deinen Hoster Installierst oder deinen eigenen Web Server.
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/FastDropGaming/fastdropgaming.github.io.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">zurück nach oben</a></p>
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- Benutzung -->
+## 💻 Benutzung
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Editiere alles so wie du es möchtest gebe deine Links ein und nutze die Seite als wäre es Dein. mehr zur Website folgt später noch
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">zurück nach oben</a></p>
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+## 🏠 Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [❌] Alles anpassbar machen über ein Hud auf der Website
+- [❌] Später dieses jahr noch die Website extern Hosten
 
-See the [open issues](https://github.com/FastDropGaming/fastdropgaming.github.io/issues) for a full list of proposed features (and known issues).
+<p align="right"><a href="#readme-top">zurück nach oben</a></p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- Lizenz -->
+## 📜 Lizenz
 
+Verteilt unter der MIT Lizenz. lese mehr in der `LICENSE.txt` für mehr Informationen.
 
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">zurück nach oben</a></p>
 
 
 
-<!-- LICENSE -->
-## License
+<!-- Kontakt -->
+## 📒 Kontakt
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+in Arbeit
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/FastDropGaming/fastdropgaming.github.io](https://github.com/FastDropGaming/fastdropgaming.github.io)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">zurück nach oben</a>)</p>
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- Werwendete Seiten etc. -->
+## 📑 Werwendete Seiten, Tools etc.
+* [Choose a License wo ich die Richtige lizenz gefunden habe](https://choosealicense.com/)
+* [GitHub Für's hosten des Codes](http://github.com/)
+* [GitHub Pages für die Demo Vorschau](https://pages.github.com/)
+* [GitHub Dektop um dieses Rep zu updaten](https://desktop.github.com/)
+* [Simpleicons für die Shields icons](https://simpleicons.org/)
+* [Smiley.cool wegen den Emojis](https://smiley.cool/emoji-list.php)
+* [Shields.io Die Statistiken oben](https://shields.io/)
+* [Visual Studio Code zum Coden der Seite](https://code.visualstudio.com/)
+* [Paint.net zum erstellen meiner logos](https://getpaint.net/)
+* [Markdownguide weil ich noch ziemlich neu bin was das Angeht](https://www.markdownguide.org/)
 
-* []()
-* []()
-* []()
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">zurück nach oben</a></p>
 
 
+<!-- Mardown Links & Bilder -->
+[sprachen]: https://img.shields.io/github/languages/count/fastdropgaming/fastdropgaming.github.io?color=41DC68&label=Verwendete%20Sprachen&logo=github&logoColor=%23181717&style=for-the-badge
+[code]: https://img.shields.io/github/languages/code-size/fastdropgaming/fastdropgaming.github.io?color=41DC68&label=Code%20Gr%C3%B6%C3%9Fe&style=for-the-badge&logo=github&logoColor=%23181717
+[probleme]: https://img.shields.io/github/issues/fastdropgaming/fastdropgaming.github.io?color=41DC68&label=Probleme&logo=Github&logoColor=%23181717&style=for-the-badge
+[lizenz]: https://img.shields.io/github/license/fastdropgaming/fastdropgaming.github.io?color=41DC68&label=Lizenz&logo=github&logoColor=%23181717&style=for-the-badge
+[powerby]: https://img.shields.io/badge/Powered-by%20Github%20Pages-222222?style=for-the-badge&logo=github-pages&logoColor=#222222
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/FastDropGaming/fastdropgaming.github.io/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/FastDropGaming/fastdropgaming.github.io/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/FastDropGaming/fastdropgaming.github.io/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/FastDropGaming/fastdropgaming.github.io/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/FastDropGaming/fastdropgaming.github.io/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+<!-- Mardown Links Sprachen -->
+[html5]: https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white
