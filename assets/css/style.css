@@ -2,9 +2,11 @@
     --bgColor: #1E2020;
     --color: #ffffff;
     --color-link: #58a6ff;
+    --color-l-text: #8EFF7C;
 }
 .herz { 
-    color:#e25555; 
+    color:#e25555;
+    cursor: pointer;
 }
 .footer {
     text-align: center;
@@ -41,4 +43,13 @@ img {
     left: 50%; 
     right: 45%; 
     top: 55%;
+}
+.ltext {
+    position: absolute;
+    left: 44.5%;  
+    top: 30%;
+    color: var(--color-l-text);
+}
+.herz:hover {
+    color: #ff0000;
 }
