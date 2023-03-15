@@ -24,11 +24,10 @@ body {
     color: var(--color-link);
 }
 .logo {
+    position: absolute;
     height: 128px;
     border-radius: 40%;
-    position: absolute;
-    left: 45%; 
-    right: 45%; 
+    left: 47.5%;  
     top: 40%;
 }
 img {
