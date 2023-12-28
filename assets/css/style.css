@@ -1,5 +1,5 @@
 :root {
-    --bgColor: #1E2020;
+    --bgColor: #191c25;
     --color: #ffffff;
     --color-link: #58a6ff;
     --color-l-text: #8EFF7C;
@@ -29,7 +29,7 @@ body {
     position: absolute;
     height: 128px;
     border-radius: 40%;
-    left: 47.1%;  
+    left: 38%;  
     top: 40%;
 }
 img {
@@ -44,11 +44,19 @@ img {
     right: 45%; 
     top: 55%;
 }
+.ltext2 {
+    position: absolute;
+    left: 47.5%;
+    top: 41%;
+    color: var(--color-l-text);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 .ltext {
     position: absolute;
-    left: 44.5%;  
-    top: 30%;
+    left: 45.8%;  
+    top: 44.5%;
     color: var(--color-l-text);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .herz:hover {
     color: #ff0000;
