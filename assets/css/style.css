@@ -1,63 +1,102 @@
 :root {
-    --bgColor: #191c25;
-    --color: #ffffff;
-    --color-link: #58a6ff;
-    --color-l-text: #8EFF7C;
+background-color: #41d071; background-image: linear-gradient(43deg, #41d071 0%, #5060c8 50%, #70e9ff 100%);
 }
-.herz { 
-    color:#e25555;
-    cursor: pointer;
+p { 
+margin: 0.2em
 }
-.footer {
-    text-align: center;
-    font-size: large;
-    position: fixed;
-    left: 0;
-    bottom: 2%;
-    height: 90px;
-    width: 100%;
-    overflow: hidden;
+.main {
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
 }
-body {
-    background-color: var(--bgColor);
-    color: var(--color);
+.fdg {
+margin-bottom: 12px;
+margin-top: 12px;
+font-family: Inter;
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 77px;
+color: #4cff4c;
+}
+.about {
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+color: #FFFFFF;
+}
+.profile {
+display: flex;
+align-items: center;
+}
+.username {
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+color: #4dff74;
+}
+.pfp {
+border-radius: 50%;
+width: 71px;
+height: 71px;
+}
+.divider {
+border: 2.5px solid rgba(255, 254, 254, 0.205);
+border-radius: 5px;
+width: 98%;
+}
+.links {
+display: flex;
+align-items: center;
+}
+.links_icon {
+width: 25px;
+height: 25px;
+transition: all .2s ease-in-out;
+}
+.links_icon:hover {
+transform: scale(1.1); 
 }
 .link {
-    color: var(--color-link);
+display: flex;
+align-items: center;
+justify-content: center;
+width: 55px;
+height: 55px;
+margin-left: 10px;
+background: rgba(196, 196, 196, 0.05);
+border: 2px solid rgba(196, 196, 196, 0.2);
+box-sizing: border-box;
+border-radius: 15px;
+transition: all .2s ease-in-out; 
 }
-.logo {
-    position: absolute;
-    height: 128px;
-    border-radius: 40%;
-    left: 38%;  
-    top: 40%;
+.link:hover {
+transform: scale(0.85);
 }
-img {
-    border-radius: 50%;
-    width: 128px;
+.corner {
+position: fixed;
+bottom: 0;
+margin-bottom: 3px;
+right: 0;
+margin-right: 15px;
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 29px;
+color: #929292;
 }
-.buttons {
-    height: 128px;
-    border-radius: 40%;
-    position: absolute;
-    left: 50%; 
-    right: 45%; 
-    top: 55%;
+.emote {
+vertical-align: middle;
+width: 36px;
+height: 36px;
+transition: all .2s ease-in-out;
 }
-.ltext2 {
-    position: absolute;
-    left: 47.5%;
-    top: 41%;
-    color: var(--color-l-text);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-.ltext {
-    position: absolute;
-    left: 45.8%;  
-    top: 44.5%;
-    color: var(--color-l-text);
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-.herz:hover {
-    color: #ff0000;
+.emote:hover {
+transform: scale(0.9);
 }
