@@ -1,5 +1,17 @@
 :root {
-background-color: #366947; background-image: linear-gradient(43deg, #3d634a 0%, #384abd 50%, #138599 100%);
+background-image: linear-gradient(to right, #06131b, #081921, #081e27, #06242c, #052a30, #042a30, #042b31, #032b31, #03252d, #042029, #041a24, #03151f);
+}
+@media only screen and (max-width: 700px) {
+.main, {   
+position: absolute;
+left: auto;
+right:
+}
+}
+@media only screen and (max-width: 700px) {
+.links_icon {
+display: none; 
+}
 }
 p { 
 margin: 0.2em
@@ -16,9 +28,9 @@ margin-top: 12px;
 font-family: Inter;
 font-style: normal;
 font-weight: 600;
-font-size: 64px;
+font-size: 45px;
 line-height: 77px;
-color: #4cff4c;
+color: #59D8B3;
 }
 .about {
 font-family: Inter;
@@ -27,6 +39,14 @@ font-weight: normal;
 font-size: 24px;
 line-height: 29px;
 color: #FFFFFF;
+}
+.aboutl {
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+color: #59D8B3;
 }
 .profile {
 display: flex;
@@ -38,7 +58,7 @@ font-style: normal;
 font-weight: normal;
 font-size: 24px;
 line-height: 36px;
-color: #4dff74;
+color: #59D8B3;
 }
 .pfp {
 border-radius: 50%;
@@ -73,7 +93,7 @@ background: rgba(196, 196, 196, 0.05);
 border: 2px solid rgba(196, 196, 196, 0.2);
 box-sizing: border-box;
 border-radius: 15px;
-transition: all .2s ease-in-out; 
+transition: all .2s ease-in-out;
 }
 .link:hover {
 transform: scale(0.85);
