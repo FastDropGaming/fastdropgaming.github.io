@@ -8,9 +8,15 @@ left: auto;
 right:
 }
 }
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 401px) {
 .links_icon {
 display: none; 
+}
+}
+@media only screen and (max-width: 800px, max-height: 200) {
+.username, .fdg, .about, .pfp, .link {
+position: center;
+
 }
 }
 p { 
@@ -88,12 +94,13 @@ align-items: center;
 justify-content: center;
 width: 55px;
 height: 55px;
-margin-left: 10px;
+margin-left:10px;
 background: rgba(196, 196, 196, 0.05);
 border: 2px solid rgba(196, 196, 196, 0.2);
 box-sizing: border-box;
 border-radius: 15px;
 transition: all .2s ease-in-out;
+
 }
 .link:hover {
 transform: scale(0.85);
