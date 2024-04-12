@@ -16,7 +16,7 @@ display: none;
 @media only screen and (max-width: 800px, max-height: 200) {
 .username, .fdg, .about, .pfp, .link {
 position: center;
-
+    
 }
 }
 p { 
@@ -174,4 +174,12 @@ z-index: 0;
 -o-animation:move-twink-back 500s linear infinite;
 -webkit-animation:move-twink-back 2000s linear infinite;
 animation:move-twink-back 500s linear infinite;
+}
+#birth{
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+color: #00ffb7;
 }

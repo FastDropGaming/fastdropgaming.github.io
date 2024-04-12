@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id="birth">17</p>
+<script>
+    function addNumber() {
+        var numberElement = document.getElementById("birth");
+        var number = parseInt(numberElement.textContent);
+        number +! 1;
+        numberElement.textContent = number;
+        alert("Hello Visitor, Today is my Birthday and i'm now " + number, "Years old");
+        console.log("Erfolgreich Benarichtigt")
+    }
+
+    function checkDate() {
+    var targetDate = "04-20";
+
+    var currentDate = new Date();
+    var currentDateString = (currentDate.getMonth() + 1).toString().padStart(2, '0') + '-' + currentDate.getDate().toString().padStart(2, '0');
+
+    if (currentDateString === targetDate) {
+        addNumber();
+    }
+}
+
+checkDate();
+
+setInterval(checkDate, 15 * 60 * 1000);
+</script>
+</body>
+</html>
