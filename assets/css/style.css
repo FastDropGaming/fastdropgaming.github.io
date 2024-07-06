@@ -16,8 +16,8 @@ display: none;
 @media only screen and (max-width: 800px, max-height: 200) {
 .username, .fdg, .about, .pfp, .link {
 position: center;
-    
 }
+
 }
 p { 
 margin: 0.2em
@@ -130,6 +130,16 @@ transition: all .2s ease-in-out;
 }
 .emote:hover {
 transform: scale(0.9);
+}
+.inq {
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+text-decoration: underline;
+text-decoration-style: dashed;
+color: #59D8B3;
 }
 
 
